@@ -1,0 +1,11 @@
+.bg-main-color{
+    background-color: #1e202b;
+    color: #1e202b;
+}
+.bg-sec-color{
+    background-color: gray;
+    color: gray;
+}
+body{
+    background-image: url(../image/banner.png);
+}
